@@ -29,7 +29,7 @@ Before running the Loan Predictor script, make sure you have the following depen
 1. Clone this GitHub repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/loan-predictor.git
+   git clone https://github.com/Suhaas-Suran/Loan-Prediction.git
 ## Usage
 
 The Loan Predictor script can be used for the following tasks:
